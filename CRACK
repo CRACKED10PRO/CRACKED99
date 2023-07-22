@@ -100,23 +100,11 @@ http://170.254.234.244:8000/play/a05w/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DIRECTV",GOLPERU HD3
 http://187.102.209.92:9010/play/a04y/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| Latina HD" group-title=" Perú ⭐",Latina HD1
-http://187.102.210.164:8000/play/a00e/index.m3u8
+http://187.102.210.164:4000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| Latina HD" group-title=" Perú ⭐",Latina HD2
 http://190.187.154.151:8000/play/a079/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| Latina HD" group-title=" Perú ⭐",Latina HD3
 http://191.97.49.196:8000/play/a02p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PE| Latina HD" group-title=" Perú ⭐",America HD1
-http://187.102.210.164:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PE| Latina HD" group-title=" Perú ⭐",America HD2
-http://51.222.110.182:8000/play/a002
-#EXTINF:-1 tvg-id="" tvg-name="PE| Latina HD" group-title=" Perú ⭐",America HD3
-http://190.187.154.151:8000/play/a078/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PE| Latina HD" group-title=" Perú ⭐",PANAMERICANA 1
-http://187.102.210.164:8000/play/a02x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PE| Latina HD" group-title=" Perú ⭐",PANAMERICANA 2
-http://191.98.171.198:4000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PE| Latina HD" group-title=" Perú ⭐",PANAMERICANA 3
-http://191.97.49.196:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| Latina HD" group-title=" Perú ⭐",ATV HD1
 http://187.102.210.164:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| Latina HD" group-title=" Perú ⭐",ATV HD2
