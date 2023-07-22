@@ -1,16 +1,16 @@
 #EXTM3U 
 #EXTINF:0 tvg-id="ext" group-title="DIRECTV",DIRECTV SPORT 1
-http://201.218.137.232:4123/play/a05a/index.m3u8
+http://51.222.110.182:8000/play/a00g
 #EXTINF:0 tvg-id="ext" group-title="DIRECTV",DIRECTV SPORT 1
-http://200.123.15.181:7087/play/a03u/index.m3u8
+http://51.222.110.182:8000/play/a00g
 #EXTINF:0 tvg-id="ext" group-title="DIRECTV",DIRECTV SPORT 2
 http://168.228.194.33:48001/play/a0bb/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DIRECTV",DIRECTV SPORT 2
-http://201.218.137.232:4123/play/a05b/index.m3u8
+http://168.228.194.33:48001/play/a0bb/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DIRECTV",DIRECTV SPORT 3
-http://201.218.137.232:4123/play/a05c/index.m3u8
+http://177.53.153.21:8001/play/a00i/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DIRECTV",DIRECTV SPORT 3
-http://201.218.137.232:4123/play/a05c/index.m3u8
+http://177.53.153.21:8001/play/a00i/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DIRECTV",LIGA DE CAMPEONES M+
 http://45.170.225.212:58001/play/a04g/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DIRECTV",Liga1MAX HD1
